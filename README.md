@@ -1,4 +1,4 @@
-# README
+# nicsh-shell
 
 ***nicsh*** is a unix shell written in C++ supporting the following features
 
